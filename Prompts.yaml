@@ -1,20 +1,11 @@
 - question: "Wie ist das Wetter?"
-  keywords:
-    - wetter
-    - Wetterbericht
-    - aktuelles Wetter
+  keywords: [wetter, wetterbericht, aktuelles wetter]
   answer: "Das Wetter ist heute sonnig und warm."
 
 - question: "Was ist die Hauptstadt von Frankreich?"
-  keywords:
-    - Hauptstadt Frankreich
-    - Paris
-    - französische Hauptstadt
+  keywords: [hauptstadt frankreich, paris, französische hauptstadt]
   answer: "Die Hauptstadt von Frankreich ist Paris."
 
 - question: "Wie spät ist es?"
-  keywords:
-    - Uhrzeit
-    - aktuelle Zeit
-    - wie viel Uhr
+  keywords: [uhrzeit, aktuelle zeit, wie viel uhr]
   answer: "Es ist gerade 14:30 Uhr."
