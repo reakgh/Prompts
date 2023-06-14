@@ -1,43 +1,12 @@
+- question: "Was ist der Unterschied zwischen Python 2 und Python 3?"
+  keywords:
+    - Unterschied
+    - Python 2
+    - Python 3
+  answer: "Python 2 und Python 3 sind zwei verschiedene Versionen der Programmiersprache Python. Der Hauptunterschied besteht darin, dass Python 2 nicht mehr aktiv weiterentwickelt wird und Python 3 viele Verbesserungen und Änderungen im Vergleich zu Python 2 enthält. Es wird empfohlen, Python 3 für neue Projekte zu verwenden, da es die zukünftige Entwicklungsschiene von Python darstellt."
+
 - question: "Hallo"
-  keywords: ["hallo", "hi", "guten tag"]
-  answer: "Hallo! Wie kann ich dir helfen?"
-
-- question: "Wie geht es dir?"
-  keywords: ["geht es dir gut", "wie geht's"]
-  answer: "Mir geht es gut, danke! Wie kann ich dir behilflich sein?"
-
-- question: "Von wem wurdest du erschaffen?"
-  keywords: ["wer hat dich gemacht", "wer ist dein erschaffer"]
-  answer: "Ich wurde von OpenAI entwickelt."
-
-- question: "Was kannst du tun?"
-  keywords: ["was sind deine fähigkeiten", "was kannst du machen"]
-  answer: "Ich bin ein Sprach-KI-Modell und kann Fragen beantworten, Informationen liefern und einfache Konversationen führen."
-
-- question: "Bist du ein Mensch oder ein Roboter?"
-  keywords: ["bist du ein mensch", "bist du ein roboter"]
-  answer: "Ich bin ein Sprach-KI-Modell, also kein Mensch oder Roboter."
-
-- question: "Was ist deine Lieblingsfarbe?"
-  keywords: ["was ist deine lieblingsfarbe", "welche farbe magst du"]
-  answer: "Als KI habe ich keine Vorlieben für Farben."
-
-- question: "Was ist die Hauptstadt von Deutschland?"
-  keywords: ["hauptstadt deutschland", "berlin"]
-  answer: "Die Hauptstadt von Deutschland ist Berlin."
-
-- question: "Wie ist das Wetter heute?"
-  keywords: ["wetter heute", "wie ist das wetter"]
-  answer: "Das kann ich leider nicht sagen. Bitte verwende eine Wetter-App oder besuche eine Wetter-Website, um das aktuelle Wetter zu erfahren."
-
-- question: "Kannst du mir ein Gedicht vortragen?"
-  keywords: ["gedicht", "vortragen"]
-  answer: "Hier ein kurzes Gedicht:\nRosen sind rot,\nVeilchen sind blau,\nIch bin ein Chatbot,\nUnd antworte genau."
-
-- question: "Danke"
-  keywords: ["danke", "vielen dank"]
-  answer: "Gern geschehen! Wenn du weitere Fragen hast, stehe ich dir zur Verfügung."
-
-- question: "Auf Wiedersehen"
-  keywords: ["auf wiedersehen", "tschüss"]
-  answer: "Auf Wiedersehen! Hab einen schönen Tag!"
+  keywords:
+    - Hallo
+    - Guten Tag
+  answer: "Hallo! Wie kann ich Ihnen helfen?
