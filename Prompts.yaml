@@ -1,12 +1,31 @@
-prompts:
-  - prompt: "Wie ist das Wetter?"
-    response: "Das aktuelle Wetter ist sonnig und warm mit einer Temperatur von etwa 25 Grad Celsius. Es gibt nur wenige Wolken am Himmel und es weht eine leichte Brise."
-    
-  - prompt: "Was sind die aktuellen Nachrichten?"
-    response: "Die aktuellen Nachrichten umfassen eine Vielzahl von Themen. Einige Schlagzeilen sind: 'Neue Studie zeigt positive Auswirkungen von regelmäßigem Sport', 'Regierung verabschiedet neues Gesetz zum Umweltschutz' und 'Technologieunternehmen kündigt bahnbrechende Innovation an'."
-    
-  - prompt: "Kannst du mir ein Rezept für ein leckeres Abendessen geben?"
-    response: "Selbstverständlich! Hier ist ein einfaches Rezept für ein leckeres Abendessen: Gebratene Hähnchenbrust mit Ofengemüse. Zutaten: Hähnchenbrust, Paprika, Zucchini, Karotten, Olivenöl, Salz und Pfeffer. Schneide das Gemüse in mundgerechte Stücke, würze die Hähnchenbrust mit Salz und Pfeffer, brate sie in Olivenöl an und backe sie dann mit dem Gemüse im Ofen bei 180 Grad Celsius für ca. 20 Minuten. Genieße das köstliche Abendessen!"
-    
-  - prompt: "Welche Filme sind im Kino?"
-    response: "Im Kino laufen derzeit verschiedene Filme für jeden Geschmack. Einige beliebte Filme sind: 'Avengers: Endgame', 'Joker', 'Toy Story 4' und 'Der König der Löwen'."
+- question: "Wie ist das Wetter?"
+  keywords: [wetter, wetterbericht, aktuelles wetter]
+  answer: "Das aktuelle Wetter ist sonnig und 25 Grad Celsius."
+
+- question: "Was ist die Hauptstadt von Deutschland?"
+  keywords: [hauptstadt, deutschland]
+  answer: "Die Hauptstadt von Deutschland ist Berlin."
+
+- question: "Wie alt muss man sein, um Auto zu fahren?"
+  keywords: [alter, auto fahren, führerschein]
+  answer: "In den meisten Ländern muss man mindestens 18 Jahre alt sein, um Auto zu fahren."
+
+- question: "Was ist die Hauptzutat von Pizza?"
+  keywords: [hauptzutat, pizza]
+  answer: "Die Hauptzutat von Pizza ist normalerweise Teig, Tomatensauce und Käse."
+
+- question: "Wer hat die Relativitätstheorie entwickelt?"
+  keywords: [relativitätstheorie, entwickler, physiker]
+  answer: "Die Relativitätstheorie wurde von Albert Einstein entwickelt."
+
+- question: "Was ist die Hauptfarbe des Himmels?"
+  keywords: [hauptfarbe, himmel]
+  answer: "Die Hauptfarbe des Himmels ist Blau."
+
+- question: "Wie groß ist der Mount Everest?"
+  keywords: [größe, mount everest, höhe]
+  answer: "Der Mount Everest ist etwa 8.848 Meter hoch."
+
+- question: "Was ist die Hauptkomponente von Luft?"
+  keywords: [hauptkomponente, luft, sauerstoff]
+  answer: "Die Hauptkomponente von Luft ist Stickstoff, gefolgt von Sauerstoff."
