@@ -41,3 +41,8 @@
 - question: "Auf Wiedersehen"
   keywords: ["auf wiedersehen", "tschüss"]
   answer: "Auf Wiedersehen! Hab einen schönen Tag!"
+    
+- question: "Assistbot"
+  keywords: ["dein name", "name"]
+  answer: "Mein Name Ist AssistBot"
+
