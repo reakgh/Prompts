@@ -1,11 +1,23 @@
-- question: "Wie ist das Wetter?"
-  keywords: [wetter, wetterbericht, aktuelles wetter]
-  answer: "Das Wetter ist heute sonnig und warm."
+- question: "Wie ist das Wetter heute?"
+  keywords: [wetter, heute]
+  answer: "Das Wetter heute ist sonnig und warm."
 
-- question: "Was ist die Hauptstadt von Frankreich?"
-  keywords: [hauptstadt frankreich, paris, französische hauptstadt]
-  answer: "Die Hauptstadt von Frankreich ist Paris."
+- question: "Was ist die Hauptstadt von Deutschland?"
+  keywords: [hauptstadt, deutschland]
+  answer: "Die Hauptstadt von Deutschland ist Berlin."
 
-- question: "Wie spät ist es?"
-  keywords: [uhrzeit, aktuelle zeit, wie viel uhr]
-  answer: "Es ist gerade 14:30 Uhr."
+- question: "Wo finde ich Informationen über Python?"
+  keywords: [informationen, python]
+  answer: "Du kannst Informationen über Python in der offiziellen Python-Dokumentation finden."
+
+- question: "Wie erstelle ich eine Schleife in Python?"
+  keywords: [schleife, python]
+  answer: "Um eine Schleife in Python zu erstellen, kannst du die 'for'-Schleife oder die 'while'-Schleife verwenden."
+
+- question: "Wie installiere ich Python auf meinem Computer?"
+  keywords: [installieren, python, computer]
+  answer: "Du kannst Python auf deinem Computer installieren, indem du die offizielle Python-Website besuchst und den Installationsanweisungen folgst."
+
+- question: "Was ist der Unterschied zwischen einer Liste und einem Tupel in Python?"
+  keywords: [unterschied, liste, tupel, python]
+  answer: "Der Hauptunterschied zwischen einer Liste und einem Tupel in Python besteht darin, dass Listen veränderbar sind, während Tupel unveränderlich sind."
